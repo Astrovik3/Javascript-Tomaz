@@ -1,0 +1,82 @@
+[
+    {
+        "codPrenda": 1, 
+        "precioPrenda": 500, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "camisa",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/camisaCuadros.jpg"
+    }, 
+    
+    {
+        "codPrenda": 2, 
+        "precioPrenda": 260, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "camisa",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/camisaNaranja.jpg"
+    },
+
+    {
+        "codPrenda": 3, 
+        "precioPrenda": 380, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "camisa",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/camisaSalmon.jpg"
+    },
+
+    {
+        "codPrenda": 4, 
+        "precioPrenda": 3800, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "pantalon",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/jeansAzules.jpg"
+    },
+
+    {
+        "codPrenda": 5, 
+        "precioPrenda": 1040, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "pantalon",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/jeansNegros.jpg"
+    },
+
+    {
+        "codPrenda": 6, 
+        "precioPrenda": 2560, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "pantalon",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/jogginGris.jpg"
+    },
+
+    {
+        "codPrenda": 7, 
+        "precioPrenda": 320, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "remera",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/remeraDibujo.jpg"
+    },
+
+    {
+        "codPrenda": 8, 
+        "precioPrenda": 540, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "remera",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/remeraVerde.jpg"
+    },
+
+    {
+        "codPrenda": 9, 
+        "precioPrenda": 290, 
+        "stockPrenda": 20, 
+        "tipoPrenda": "remera",
+        "tallePrenda": ["XL", "L", "M", "S"],
+        "imgPrenda": "./images/remeraRosa.jpg"
+    }
+]

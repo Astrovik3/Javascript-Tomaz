@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #F2FEDC;
+}
+img{
+    width: 200px;
+    border: #866843 2px double;
+}
+p{
+    margin: 0px;
+    padding-bottom: 0px;
+    font-family: Verdana;
+    font-size: small;
+}
+button{
+    margin: 0px 10px 0px 10px;
+}
+.contImg{
+    border-bottom: 1px #BB5B3E solid;
+}
+.botones{
+    display: flex;
+    margin: 2px;
+    justify-content: center;
+    align-content: center;
+}
+.div1{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    justify-content: space-around;
+}
+#cantElegida{
+    width: 20px;
+    padding-bottom: 0px;
+    font-family: Verdana;
+    font-size: small;
+    text-align: center;
+}
+#navBar{
+    display: flex;
+    background-color: #fffd9b;
+    justify-content: space-around;
+    align-content: center;
+    height: 130px;
+}
+#btnCarrito{
+    height: 25px;
+    align-self: center;
+}
+#title{
+    height: 20px;
+    line-height: 85px;
+    font-family: Verdana;
+    color: #6e5332;
+    font-size: 30px;
+}
