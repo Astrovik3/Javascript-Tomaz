@@ -5,7 +5,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "camisa",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/camisaCuadros.jpg"
+        "imgPrenda": "./images/camisaCuadros.jpg",
+        "descripcionPrenda": "camisa a cuadros azul y rojo"
     }, 
     
     {
@@ -14,7 +15,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "camisa",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/camisaNaranja.jpg"
+        "imgPrenda": "./images/camisaNaranja.jpg",
+        "descripcionPrenda": "camisa simple naranja"
     },
 
     {
@@ -23,7 +25,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "camisa",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/camisaSalmon.jpg"
+        "imgPrenda": "./images/camisaSalmon.jpg",
+        "descripcionPrenda": "camisa simple salmón"
     },
 
     {
@@ -32,7 +35,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "pantalon",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/jeansAzules.jpg"
+        "imgPrenda": "./images/jeansAzules.jpg",
+        "descripcionPrenda": "jean gastado azul"
     },
 
     {
@@ -41,7 +45,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "pantalon",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/jeansNegros.jpg"
+        "imgPrenda": "./images/jeansNegros.jpg",
+        "descripcionPrenda": "jean gastado negro"
     },
 
     {
@@ -50,7 +55,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "pantalon",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/jogginGris.jpg"
+        "imgPrenda": "./images/jogginGris.jpg",
+        "descripcionPrenda": "joggin gris"
     },
 
     {
@@ -59,7 +65,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "remera",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/remeraDibujo.jpg"
+        "imgPrenda": "./images/remeraDibujo.jpg",
+        "descripcionPrenda": "remera blanca con negro"
     },
 
     {
@@ -68,7 +75,8 @@
         "stockPrenda": 20, 
         "tipoPrenda": "remera",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/remeraVerde.jpg"
+        "imgPrenda": "./images/remeraVerde.jpg",
+        "descripcionPrenda": "remera simple verde"
     },
 
     {
@@ -77,6 +85,7 @@
         "stockPrenda": 20, 
         "tipoPrenda": "remera",
         "tallePrenda": ["XL", "L", "M", "S"],
-        "imgPrenda": "./images/remeraRosa.jpg"
+        "imgPrenda": "./images/remeraRosa.jpg",
+        "descripcionPrenda": "remera simple rosa"
     }
 ]
